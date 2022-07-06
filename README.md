@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+# Todoist Stats
+
+
 
 <!--
 **Kanomdo/Kanomdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
