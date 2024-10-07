@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **natthanan.kanomdo@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/natthananchaw/](https://www.linkedin.com/in/natthananchaw/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
